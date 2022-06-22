@@ -2,6 +2,8 @@
 
 # Link to deployed application
 
+https://jmp2814.github.io/random-password-gen/
+
 # Actions Taken
 *Planned out JavaScript using pseudocoding
 
