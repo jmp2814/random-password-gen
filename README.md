@@ -16,7 +16,7 @@
 # Screenshots
 *If you try an invalid length criteria...
 
-![tryCarl] (./assets/carl.png)
+![tryCarl]<img src=(./assets/carl.png)/>
 
 *...you are asked to try again
 
