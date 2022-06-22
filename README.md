@@ -16,9 +16,12 @@
 # Screenshots
 *If you try an invalid length criteria...
 
-![tryCarl]<img src=(./assets/carl.png)/>
+![tryCarl](/Assets/carl.png)
 
 *...you are asked to try again
 
+![tryAgain](/Assets/tryagain.png)
+
 *Assuming you learned your lesson, you get a password!
 
+![success](/Assets/password.png)
